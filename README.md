@@ -1,6 +1,8 @@
 # HoloCure Stuff
 A collection of my various HoloCure things!
 
+For more info, join the [HoloCure Discord Server](https://discord.gg/SYAHUEj8UN) and look for the HoloCure Code Discussion thread in #holocure-general!
+
 ## Mods
 
 ### [Infi Core](https://github.com/mashirochan/HoloCure-InfiCore)
